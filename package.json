@@ -1,5 +1,5 @@
 {
-  "name": "auto_copy",
+  "name": "auto-copy",
   "version": "0.2.0",
   "description": "Select text automatically copied to clipboard",
   "main": "index.js",
@@ -8,19 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wangmeijian/auto_copy.git"
+    "url": "git+https://github.com/wangmeijian/auto-copy.git"
   },
   "keywords": [
-    "dblclick",
-    "copy",
-    "web",
-    "page",
-    "text"
+    "auto copy",
+    "web development",
+    "copy text"
   ],
   "author": "wangmeijian2016@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wangmeijian/auto_copy/issues"
+    "url": "https://github.com/wangmeijian/auto-copy/issues"
   },
-  "homepage": "https://github.com/wangmeijian/auto_copy#readme"
+  "homepage": "https://github.com/wangmeijian/auto-copy#readme"
 }
