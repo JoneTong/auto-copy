@@ -1,0 +1,26 @@
+{
+  "name": "dblclick_copy",
+  "version": "0.1.0",
+  "description": "Double click the web page text to the clipboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangmeijian/dblclick_copy.git"
+  },
+  "keywords": [
+    "dblclick",
+    "copy",
+    "web",
+    "page",
+    "text"
+  ],
+  "author": "wangmeijian2016@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangmeijian/dblclick_copy/issues"
+  },
+  "homepage": "https://github.com/wangmeijian/dblclick_copy#readme"
+}
