@@ -1,3 +1,3 @@
-var DblclickCopy = require('../index');
+var AutoCopy = require('../index');
 
-new DblclickCopy();
+new AutoCopy();

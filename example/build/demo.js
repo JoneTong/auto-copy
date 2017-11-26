@@ -67,9 +67,9 @@
 /* 0 */
 /***/ (function(module, exports, __webpack_require__) {
 
-var DblclickCopy = __webpack_require__(1);
+var AutoCopy = __webpack_require__(1);
 
-new DblclickCopy();
+new AutoCopy();
 
 /***/ }),
 /* 1 */
