@@ -1,6 +1,6 @@
 'use strict';
 
-class DblclickCopy {
+class AutoCopy {
 	constructor() {
 		this.title = document.title;
 		this.timer = null;
@@ -27,14 +27,11 @@ class DblclickCopy {
 	}
 	_bindEvent() {
 		let _this = this;
-		window.addEventListener('dblclick', _this._init, false);
-		window.addEventListener('focus', function() {
-			window.addEventListener('dblclick', _this._init, false);
-		}, false);
-		window.addEventListener('blur', function() {
-			window.removeEventListener('dblclick', _this._init, false);
+		window.addEventListener('mouseup', _this._init, false);
+		window.addEventListener('close', function() {
+			window.removeEventListener('mouseup', _this._init, false);
 		}, false);
 	}
 }
 
-module.exports = DblclickCopy;
+module.exports = AutoCopy;

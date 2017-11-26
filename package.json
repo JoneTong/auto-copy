@@ -1,14 +1,14 @@
 {
-  "name": "dblclick_copy",
-  "version": "0.1.0",
-  "description": "Double click the web page text to the clipboard",
+  "name": "auto_copy",
+  "version": "0.2.0",
+  "description": "Select text automatically copied to clipboard",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wangmeijian/dblclick_copy.git"
+    "url": "git+https://github.com/wangmeijian/auto_copy.git"
   },
   "keywords": [
     "dblclick",
@@ -20,7 +20,7 @@
   "author": "wangmeijian2016@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wangmeijian/dblclick_copy/issues"
+    "url": "https://github.com/wangmeijian/auto_copy/issues"
   },
-  "homepage": "https://github.com/wangmeijian/dblclick_copy#readme"
+  "homepage": "https://github.com/wangmeijian/auto_copy#readme"
 }
