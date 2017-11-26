@@ -1,3 +1,3 @@
-var AutoCopy = require('../index');
+const AutoCopy = require('auto-copy');
 
 new AutoCopy();
