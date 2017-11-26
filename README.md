@@ -11,3 +11,7 @@ npm install auto-copy --save-dev
 var DblclickCopy = require('auto-copy');
 new DblclickCopy();
 ```
+### Relevance
+By doing a [Chrome extension](https://github.com/wangmeijian/auto-copy-extend), the advantages of the Chrome extension are permanent installation, and NPM package needs to be introduced into each project  
+顺便做了一个[chrome扩展](https://github.com/wangmeijian/auto-copy-extend)，相比这个包，chrome扩展的优点是一次安装永久使用，而npm package需要在每个项目中引入  
+
