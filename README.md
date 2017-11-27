@@ -8,8 +8,8 @@ npm install auto-copy --save-dev
 ```
 ### Basic Usage
 ```js
-var DblclickCopy = require('auto-copy');
-new DblclickCopy();
+var AutoCopy = require('auto-copy');
+new AutoCopy();
 ```
 ### Relevance
 By doing a [Chrome extension](https://github.com/wangmeijian/auto-copy-extend), the advantages of the Chrome extension are permanent installation, and NPM package needs to be introduced into each project  
